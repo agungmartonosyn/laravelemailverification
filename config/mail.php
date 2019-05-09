@@ -10,7 +10,7 @@ return [
     'port' => env('MAIL_PORT', 587),
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'agungmartonosyn@gmail.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'laravelverifikasi@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Agung Martono'),
     ],
 
